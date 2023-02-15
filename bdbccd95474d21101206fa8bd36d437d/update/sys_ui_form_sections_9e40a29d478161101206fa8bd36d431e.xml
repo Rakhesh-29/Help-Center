@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="9e40a29d478161101206fa8bd36d431e" sys_domain="global" table="x_780018_help_cent_hc_gms_base_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e640a29d478161101206fa8bd36d433c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_780018_help_cent_hc_gms_base_table" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9e40a29d478161101206fa8bd36d431e</sys_ui_form>
+            <sys_ui_section caption="Incident" display_value="Incident" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">ae40a29d478161101206fa8bd36d4336</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 14:00:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a40a29d478161101206fa8bd36d4346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_780018_help_cent_hc_gms_base_table" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9e40a29d478161101206fa8bd36d431e</sys_ui_form>
+            <sys_ui_section caption="Impact" display_value="Impact" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">2240a29d478161101206fa8bd36d4343</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 14:00:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa40a29d478161101206fa8bd36d4336</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_780018_help_cent_hc_gms_base_table" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9e40a29d478161101206fa8bd36d431e</sys_ui_form>
+            <sys_ui_section caption="Assignment" display_value="Assignment" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">2640a29d478161101206fa8bd36d4327</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 14:00:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2240a29d478161101206fa8bd36d4324</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_780018_help_cent_hc_gms_base_table" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9e40a29d478161101206fa8bd36d431e</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">1240a29d478161101206fa8bd36d4321</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 14:00:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e40a29d478161101206fa8bd36d4342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_780018_help_cent_hc_gms_base_table" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9e40a29d478161101206fa8bd36d431e</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">2a40a29d478161101206fa8bd36d433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 14:00:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2640a29d478161101206fa8bd36d433f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_780018_help_cent_hc_gms_base_table" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9e40a29d478161101206fa8bd36d431e</sys_ui_form>
+            <sys_ui_section caption="Cause" display_value="Cause" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">ea40a29d478161101206fa8bd36d433c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 14:00:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2240a29d478161101206fa8bd36d4327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_780018_help_cent_hc_gms_base_table" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">9e40a29d478161101206fa8bd36d431e</sys_ui_form>
+            <sys_ui_section caption="Resolution" display_value="Resolution" name="x_780018_help_cent_hc_gms_base_table" sys_domain="global" view="f5c0a49877413010dc2c885d9f5a999e">2640a29d478161101206fa8bd36d4324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-15 14:00:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_780018_help_cent_hc_gms_base_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 14:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e40a29d478161101206fa8bd36d431e</sys_id>
+            <sys_name>x_780018_help_cent_hc_gms_base_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Help Center" source="x_780018_help_cent">bdbccd95474d21101206fa8bd36d437d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Help Center">bdbccd95474d21101206fa8bd36d437d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9e40a29d478161101206fa8bd36d431e</sys_update_name>
+            <sys_user/>
+            <view display_value="Service Operations Workspace" name="sow">f5c0a49877413010dc2c885d9f5a999e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
